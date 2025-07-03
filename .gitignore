@@ -1,0 +1,9 @@
+__pycache__/
+financial_analyst/processed_data/
+.env
+plots/
+financial_analyst/statements/*.xls
+.vscode/
+Analysis_Report_IIT_Hyderabad.md
+Stipend_Payments_IIT_Hyderabad.md
+stipend_payments.md

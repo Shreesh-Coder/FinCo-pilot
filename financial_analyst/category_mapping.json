@@ -1,0 +1,75 @@
+{
+    "Transfers": [
+        "TRANSFER",
+        "UPI",
+        "NEFT",
+        "RTGS",
+        "IMPS"
+    ],
+    "Food & Dining": [
+        "SWIGGY",
+        "ZOMATO",
+        "DOMINO",
+        "ISTHARA",
+        "RESTAURANT",
+        "FOOD"
+    ],
+    "Utilities": [
+        "ELECT",
+        "BROADBAND",
+        "BILL",
+        "JIO",
+        "TEL",
+        "PAYTM",
+        "RECHARGE",
+        "GAS"
+    ],
+    "Transportation": [
+        "IRCTC",
+        "OLA",
+        "UBER",
+        "FUEL",
+        "AUTO",
+        "METRO"
+    ],
+    "Shopping": [
+        "AMAZON",
+        "FLIPKART",
+        "MALL",
+        "MYNTRA",
+        "SHOP",
+        "AJIO"
+    ],
+    "Groceries": [
+        "DMART",
+        "GROCERY",
+        "BIGBASKET",
+        "SUPERMARKET"
+    ],
+    "Cash Withdrawal": [
+        "ATM",
+        "CASH WITHDRAWAL"
+    ],
+    "Bank Charges": [
+        "CHARGES",
+        "FEE",
+        "MAB",
+        "MIN BAL"
+    ],
+    "Investments & Returns": [
+        "INTEREST",
+        "DIVIDEND",
+        "MUTUAL FUND",
+        "ZERODHA"
+    ],
+    "Rent": [
+        "RENT"
+    ],
+    "Income": [
+        "SALARY"
+    ],
+    "Credit Card Payment": [
+        "CRED CLUB",
+        "CRED"
+    ]
+}
